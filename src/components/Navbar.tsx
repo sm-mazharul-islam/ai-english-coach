@@ -23,9 +23,7 @@ export default function Navbar({ session }: { session: any }) {
     <nav className="sticky top-0 z-50 w-full glass-panel border-b border-white/5 px-6 py-4">
       <div className="mx-auto flex max-w-7xl items-center justify-between">
         <Link href="/dashboard" className="flex items-center gap-2 font-sans text-xl font-bold tracking-tight text-white">
-          <span className="bg-gradient-to-r from-violet-400 via-fuchsia-400 to-teal-400 bg-clip-text text-transparent text-glow-purple">
-            Antigravity
-          </span>
+        
           <span className="text-sm font-medium text-white/50">English AI</span>
         </Link>
 

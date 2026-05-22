@@ -13,9 +13,6 @@ export default async function LandingPage() {
 
       <header className="mx-auto w-full max-w-7xl flex items-center justify-between z-10">
         <div className="flex items-center gap-2">
-          <span className="font-bold text-2xl tracking-tight bg-gradient-to-r from-violet-400 via-fuchsia-400 to-teal-400 bg-clip-text text-transparent text-glow-purple">
-            Antigravity
-          </span>
           <span className="rounded-full bg-violet-500/10 border border-violet-500/20 px-2.5 py-0.5 text-xs font-semibold text-violet-300">
             English AI
           </span>

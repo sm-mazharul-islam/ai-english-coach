@@ -4,7 +4,7 @@ import { auth } from "@/lib/auth";
 import Navbar from "@/components/Navbar";
 
 export const metadata: Metadata = {
-  title: "Antigravity English AI | Your Smart English Learning Coach",
+  title: " English AI | Your Smart English Learning Coach",
   description: "Improve your English writing, practice vocabulary, get AI grammar corrections, and train for the IELTS speaking & writing exam with interactive SaaS insights.",
 };
 
