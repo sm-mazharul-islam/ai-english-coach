@@ -1,4 +1,4 @@
-# 🌌 English AI — MERN Stack Learning Platform
+# 🌌 English AI | MERN Stack Learning Platform
 
 [View Live](https://ai-english-coach-alpha.vercel.app/)
 
